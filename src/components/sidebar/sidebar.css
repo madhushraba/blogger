@@ -1,0 +1,159 @@
+/* .sidebar{
+    flex: 3;
+    margin: 20px;
+    padding-bottom: 30px;
+    background: rgb(250, 239, 239);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(101, 16, 182);
+}
+.sidebaricons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(185, 19, 130);
+}
+
+.sidebartitle{
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    border-bottom: 1px solid rgb(202, 12, 12);
+    border-top: 1px solid rgb(230, 11, 11);
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 30px;
+    
+    /* justify-content: center; 
+
+}
+/* nbmdbhfnm dm 
+p{
+    padding: 10px;
+}
+/* .sidebaricons{
+    padding: 0 10px ;
+} */
+/* .sidebarsocial{
+    display: flex;
+    padding: 10px;
+} 
+
+.imgg{
+    width: 220px;
+    height: 220px;
+}
+
+/* kncdkslabnvsz 
+
+.sidebaritem > img{
+    margin-top: 15px;
+}
+.sidebaritem > p{
+    margin-top: 15px;
+}
+
+.sidebarlist{
+    list-style: none;
+    margin-bottom: 30px;
+}
+.sidebarlistitem{
+    display: inline-block;
+    width: 50%;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.sidebarsocial{
+    margin-top: 15px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebaricons{
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+*/
+
+
+.sidebar {
+    flex: 3;
+    height: fit-content;
+    margin: 20px;
+    padding-bottom: 30px;
+    background-color: #fdfbfb;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sidebarItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sidebarTitle {
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+    border-top: solid 1px #a7a4a4;
+    border-bottom: solid 1px #a7a4a4;
+    text-align: center;
+    font-family: "Varela Round", sans-serif;
+    font-size: 12px;
+    line-height: 19px;
+    color: #222222;
+    font-weight: 600;
+  }
+  
+  .sidebarItem > img {
+    margin-top: 15px;
+    width: 250px;
+    height: 250px;
+  }
+  
+  .sidebarItem > p {
+    padding: 30px;
+  }
+  
+  .sidebarList {
+    list-style-type: none;
+    margin-bottom: 30px;
+  }
+  
+  .sidebarListItem {
+    display: inline-block;
+    width: 50%;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+  
+  .sidebarSocial {
+    margin-top: 15px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sidebarIcon {
+    font-size: 16px;
+    margin-left: 10px;
+  }
+
+
+
+
+
+
+
+ 
