@@ -1,5 +1,5 @@
 .header {
-  margin-top: 6px;
+  margin-top: 0px;
 }
 
 .headertitles {
@@ -20,6 +20,8 @@
   top: 20%;
   font-size: 80px;
   color: rgb(206, 0, 62,1);
+  border-radius: 16px;
+  /* border: none; */
 }
 .headerimg {
   width: 100%;
