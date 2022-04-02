@@ -1,4 +1,10 @@
+*{
+  margin: 0;padding: 0;
+}
+
 .top {
+  /* margin: 0;
+  padding: 0; */
   background-color: rgb(252, 236, 246);
   width: 100%;
   height: 50px;
